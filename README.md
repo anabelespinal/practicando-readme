@@ -6,9 +6,9 @@ Primero debemos entender que es un diagrama   de flujo.
 Esto son unos conceptos de diagrama de flujo:
 * representación grafica del proceso.
 * representacion grafica de un algoritmo.
-* BENEFIOS
-		*facilita la vision del poceso
-		*ayuda a establecer el valor agragado
+* BENEFICiOS
+		1. facilita la vision del poceso
+		2. ayuda a establecer el valor agragado
 
 
 EMPEZAMOS NUESTRO DIAGRAMA DE FLUJO IDENTIFICANDO CUALES SERIAN NUESTROS PSEUDOCODIGOS.

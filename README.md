@@ -36,11 +36,9 @@ Y ESTE ES:
 
 Nuestro diagrama de flujo de pseudocodigo es:
 
-~~~
  
 ![sin titulo](http://i67.tinypic.com/xe1mdi.jpg)
 
-~~~
 
 
 ***

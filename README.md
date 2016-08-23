@@ -37,8 +37,8 @@ Y ESTE ES:
 Nuestro diagrama de flujo de pseudocodigo es:
 
 ~~~
-
-![coders hunters](https://cloud.githubusercontent.com/assets/20427005/17912684/b24d34de-695a-11e6-847d-384007c778b6.jpg "coders-hunters")
+ 
+![sin titulo](http://i67.tinypic.com/xe1mdi.jpg 
 
 ~~~
 

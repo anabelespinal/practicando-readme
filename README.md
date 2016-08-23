@@ -9,19 +9,19 @@ Esto son unos conceptos de diagrama de flujo:
 + representación grafica del proceso.
 + representacion grafica de un algoritmo.
 + BENEFICIOS
-	-facilita la vision del poceso
-	-ayuda a establecer el valor agragado
+	1.facilita la vision del poceso
+	2.ayuda a establecer el valor agragado
 
 
 EMPEZAMOS NUESTRO DIAGRAMA DE FLUJO IDENTIFICANDO CUALES SERIAN NUESTROS PSEUDOCODIGOS.
 
-Y ESTE ES.-
+Y ESTE ES:
 
 ~~~
 
 1. inicio
 2. coger celular
-3. abrir la aplicacion ***lima delivery***
+3. abrir la aplicacion LIMA DELIVERY
 4. escoger pedido
 5. llamar
   6. ¿contestó?
@@ -34,7 +34,16 @@ Y ESTE ES.-
 
 ~~~
 
+Nuestro diagrama de flujo de pseudocodigo es:
 
+~~~
+
+![coders hunters](https://cloud.githubusercontent.com/assets/20427005/17912684/b24d34de-695a-11e6-847d-384007c778b6.jpg "coders-hunters")
+
+~~~
+
+
+***
 
 
 

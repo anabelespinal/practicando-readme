@@ -1,6 +1,6 @@
 ***
 
-#DIAGRAMA DE FLLUJO
+#DIAGRAMA DE FLUJO
 
 ###Contexto de nuestro __*diagrama de flujo*__:
 Primero debemos entender que es un diagrama   de flujo. 
